@@ -1,0 +1,3 @@
+---
+doc_root: "/var/www/vhost/"
+web_port: 81
